@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image{
+    position: relative;
+    border-color: black;
+    border:2px solid;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+}
+.image .profile-image{
+    height: 100%;
+    width: 100%;
+    object-fit:scale-down;
+    background-color:white;
+    border-radius:50%;
+}
