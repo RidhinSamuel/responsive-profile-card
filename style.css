@@ -14,7 +14,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 400PX;
+    max-width: 450PX;
     width: 100%;
     background-color:#fff;
     border-radius: 24px;
@@ -52,4 +52,11 @@ body{
 .text-data .job{
     font-size: 15px;
     font-weight: 400px;
+}
+.profile-card .media-button{
+    padding-top: 15px;
+    font-size: 40px;
+}
+.media-button .icon{
+    color:#4070f4 ;
 }
